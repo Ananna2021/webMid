@@ -1,0 +1,465 @@
+.Rectangle2{    
+    position: absolute;
+    width: 1920px;
+    height: 199px;
+    left: 0px;
+    top: 0px;
+    
+    background: #2C0C8D;
+    
+    }
+    
+    .Rectangle1{
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 50px;
+    top: 49px;
+    
+    background: url("Burger_King_logo_(1999).svg");
+    
+    
+    }
+    
+    .Rectangle3{
+        position: absolute;
+        width: 1619px;
+        height: 98px;
+        left: 143px;
+        top: 303px;
+        
+        background: #213591;
+        z-index: -1;
+    }
+    
+    .Rectangle24{
+        position: absolute;
+        width: 488px;
+        height: 52px;
+        left: 1202px;
+        top: 326px;
+        
+        background: #FFFFFF;
+        border: 1px solid #FFFFFF;
+        box-sizing: border-box;
+    }
+    
+    .Menubar{
+        position: absolute;
+        width: 407px;
+        height: 32px;
+        left: 260px;
+        top: 334px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 32px;
+        /* identical to box height */
+        
+        
+        color: #FFFFFF;
+    }
+
+    .Menubar a{
+        text-decoration: none;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 32px;
+        /* identical to box height */
+        
+        
+        color: #FFFFFF;
+    }
+
+    .Locator{
+        position: absolute;
+        width: 216px;
+        height: 42px;
+        left: 175px;
+        top: 553px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 42px;
+        
+        color: #868686;
+        }
+        
+
+    .Rectangle4{
+        position: absolute;
+        width: 1500px;
+        height: 502px;
+        left: 200px;
+        top: 700px;
+
+        background: #881E26;
+    }
+
+
+    .Rectangle11{
+        position: absolute;
+        width: 1620px;
+        height: 102px;
+        left: 141px;
+        top: 1385px;
+
+        background: #3D0234;
+
+    }
+
+
+    .Address{
+        position: absolute;
+        width: 565px;
+        height: 28px;
+        left: 673px;
+        top: 1613px;
+        
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+        
+        color: #000000;
+        
+    }
+    
+    .Rights{
+        position: absolute;
+        width: 1025px;
+        height: 40px;
+        left: 443px;
+        top: 2837px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 34px;
+        line-height: 40px;
+        /* identical to box height */
+        
+        
+        color: #68085A;
+    
+    }
+    
+    .Sign{
+        position: absolute;
+        width: 254px;
+        height: 42px;
+        left: 825px;
+        top: 2906px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        
+        color: #000000;
+    }
+    
+    .Rectangle23{
+
+        position: absolute;
+        width: 171px;
+        height: 48px;
+        left: 867px;
+        top: 2950px;
+        
+        background: #213591;
+        border-radius: 9px;
+    }
+    
+    .Top{
+        position: absolute;
+        width: 141px;
+        height: 28px;
+        left: 883px;
+        top: 2960px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+    
+    .Rectangle21{
+
+        position: absolute;
+        width: 1900px;
+        height: 351px;
+        left: 0px;
+        top: 3129px;
+        
+        background: #3D0234;
+        z-index: -1;
+    }
+    
+    .text1{
+        position: absolute;
+        width: 252px;
+        height: 19px;
+        left: 858px;
+        top: 2263px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+    }
+    
+    .text2{
+        position: absolute;
+        width: 305px;
+        height: 19px;
+        left: 831px;
+        top: 3269px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        text-align: center;
+        
+        color: #FFFFFF;
+        
+    }
+    
+    .text3{
+        position: absolute;
+        width: 915px;
+        height: 26px;
+        left: 700px;
+        top: 3319px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 0%;
+        /* or 0px */
+        
+        display: flex;
+        align-items: flex-end;
+        text-align: center;
+        
+        color: #FFFFFF;
+            
+    }
+    
+    .Rectangle40{
+        position: absolute;
+        width: 406px;
+        height: 233px;
+        left: 301px;
+        top: 1534px;
+        
+        background: url("Rectangle 13.png");
+       
+    }
+
+    .Rectangle31{
+        position: absolute;
+        width: 406px;
+        height: 233px;
+        left: 748px;
+        top: 1534px;
+        
+        background: url("Rectangle 14.png");
+    }
+
+    .Rectangle32{
+        position: absolute;
+        width: 406px;
+        height: 233px;
+        left: 1202px;
+        top: 1534px;
+        
+        background: url("Rectangle 15.png");
+
+    }
+
+    .Rectangle33{
+        position: absolute;
+        width: 406px;
+        height: 216px;
+        left: 301px;
+        top: 1907px;
+        
+        background: url("Rectangle 16.png");
+
+    }
+
+    .Rectangle34{
+        position: absolute;
+        width: 406px;
+        height: 221px;
+        left: 748px;
+        top: 1902px;
+        
+        background: url("Rectangle 17.png");
+
+    }
+
+    .Rectangle35{
+        position: absolute;
+        width: 406px;
+        height: 230px;
+        left: 1202px;
+        top: 1902px;
+        
+        background: url("Rectangle 18.png");
+
+    }
+
+    .Rectangle36{
+        position: absolute;
+        width: 406px;
+        height: 231px;
+        left: 301px;
+        top: 2280px;
+        
+        background: url("Rectangle 19.png");
+
+    }
+
+    .Rectangle37{
+        position: absolute;
+        width: 406px;
+        height: 231px;
+        left: 748px;
+        top: 2280px;
+
+        background: url("Rectangle 20.png");
+
+    }
+
+    .Rectangle38{
+
+        position: absolute;
+        width: 406px;
+        height: 296px;
+        left: 1202px;
+        top: 2280px;
+        
+        
+        background: url("Rectangle 14.png");
+        background-repeat: no-repeat;
+
+    }
+
+    .Rectangle5{
+        position: absolute;
+        width: 879px;
+        height: 329px;
+        left: 225px;
+        top: 732px;
+        
+        background: url("Rectangle 5.png");        
+    }
+
+    .Rectangle6{
+        position: absolute;
+        width: 257px;
+        height: 153px;
+        left: 1417px;
+        top: 908px;
+        
+        
+        background: url("Rectangle 6.png");        
+    }
+
+    .Rectangle7{
+        position: absolute;
+        width: 259px;
+        height: 153px;
+        left: 1132px;
+        top: 908px;
+
+        background: url("Rectangle 5.png");        
+    }
+
+    .Rectangle9{
+        position: absolute;
+        width: 257px;
+        height: 153px;
+        left: 1417px;
+        top: 726px;
+        
+        background: url("Rectangle 6.png");        
+    }
+
+    .Rectangle10{
+        position: absolute;
+        width: 259px;
+        height: 153px;
+        left: 1132px;
+        top: 726px;
+        
+        background: url("Rectangle 5.png");        
+    }
+
+    .cartIcon{
+        position: absolute;
+        width: 102px;
+        height: 65px;
+        left: 433px;
+        top: 1107px;
+
+        background: url("Rectangle 22.png");
+    }
+
+    .off{
+        position: absolute;
+        width: 200px;
+        height: 42px;
+        left: 579px;
+        top: 1116px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 42px;
+
+        color: #FFFFFF;
+    }
+
+    .category{
+        position: absolute;
+        width: 1000px;
+        height: 29px;
+        left: 286px;
+        top: 1429px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 23px;
+        
+        color: #FFFFFF;     
+    }
